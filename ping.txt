@@ -1,0 +1,25 @@
+PING 192.168.0.2 (192.168.0.2): 56 data bytes
+64 bytes from 192.168.0.2: icmp_seq=0 ttl=64 time=774.250 ms
+64 bytes from 192.168.0.2: icmp_seq=1 ttl=64 time=782.528 ms
+64 bytes from 192.168.0.2: icmp_seq=2 ttl=64 time=770.396 ms
+64 bytes from 192.168.0.2: icmp_seq=3 ttl=64 time=778.150 ms
+64 bytes from 192.168.0.2: icmp_seq=4 ttl=64 time=765.862 ms
+64 bytes from 192.168.0.2: icmp_seq=5 ttl=64 time=773.645 ms
+64 bytes from 192.168.0.2: icmp_seq=6 ttl=64 time=780.980 ms
+64 bytes from 192.168.0.2: icmp_seq=7 ttl=64 time=768.727 ms
+64 bytes from 192.168.0.2: icmp_seq=8 ttl=64 time=776.567 ms
+64 bytes from 192.168.0.2: icmp_seq=9 ttl=64 time=765.117 ms
+64 bytes from 192.168.0.2: icmp_seq=10 ttl=64 time=772.871 ms
+64 bytes from 192.168.0.2: icmp_seq=11 ttl=64 time=780.651 ms
+64 bytes from 192.168.0.2: icmp_seq=12 ttl=64 time=767.981 ms
+64 bytes from 192.168.0.2: icmp_seq=13 ttl=64 time=775.778 ms
+64 bytes from 192.168.0.2: icmp_seq=14 ttl=64 time=764.419 ms
+64 bytes from 192.168.0.2: icmp_seq=15 ttl=64 time=772.142 ms
+64 bytes from 192.168.0.2: icmp_seq=16 ttl=64 time=779.883 ms
+64 bytes from 192.168.0.2: icmp_seq=17 ttl=64 time=768.426 ms
+64 bytes from 192.168.0.2: icmp_seq=18 ttl=64 time=776.325 ms
+64 bytes from 192.168.0.2: icmp_seq=19 ttl=64 time=764.031 ms
+64 bytes from 192.168.0.2: icmp_seq=20 ttl=64 time=771.778 ms
+--- 192.168.0.2 ping statistics ---
+22 packets transmitted, 21 packets received, 4% packet loss
+round-trip min/avg/max = 764.031/772.881/782.528 ms
